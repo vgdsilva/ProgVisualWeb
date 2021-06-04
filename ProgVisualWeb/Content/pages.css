@@ -1,0 +1,29 @@
+﻿body {
+    background: #dedddd;
+}
+
+
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 250px;
+    /*background-color: #f1f1f1;*/
+    background-color: #adabab;
+    position: absolute;
+    height: 100%;
+    overflow: auto;
+}
+
+.sidebar a {
+    background-color: #adabab;
+}
+
+.page-content{
+    
+}
+
+.modal-header{
+    height: 50px;
+}
+
+
