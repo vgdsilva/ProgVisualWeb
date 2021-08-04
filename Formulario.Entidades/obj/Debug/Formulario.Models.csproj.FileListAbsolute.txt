@@ -1,0 +1,12 @@
+C:\Users\vinig\source\repos\ProgVisualWeb\Formulario.Entidades\bin\Debug\Formulario.Entidades.dll
+C:\Users\vinig\source\repos\ProgVisualWeb\Formulario.Entidades\bin\Debug\Formulario.Entidades.pdb
+C:\Users\vinig\source\repos\ProgVisualWeb\Formulario.Entidades\obj\Debug\Formulario.Models.csproj.AssemblyReference.cache
+C:\Users\vinig\source\repos\ProgVisualWeb\Formulario.Entidades\obj\Debug\Formulario.Models.csproj.CoreCompileInputs.cache
+C:\Users\vinig\source\repos\ProgVisualWeb\Formulario.Entidades\obj\Debug\Formulario.Entidades.dll
+C:\Users\vinig\source\repos\ProgVisualWeb\Formulario.Entidades\obj\Debug\Formulario.Entidades.pdb
+C:\Users\vinig\source\repos\ProgVisualWebTest\Formulario.Entidades\bin\Debug\Formulario.Entidades.dll
+C:\Users\vinig\source\repos\ProgVisualWebTest\Formulario.Entidades\bin\Debug\Formulario.Entidades.pdb
+C:\Users\vinig\source\repos\ProgVisualWebTest\Formulario.Entidades\obj\Debug\Formulario.Models.csproj.AssemblyReference.cache
+C:\Users\vinig\source\repos\ProgVisualWebTest\Formulario.Entidades\obj\Debug\Formulario.Models.csproj.CoreCompileInputs.cache
+C:\Users\vinig\source\repos\ProgVisualWebTest\Formulario.Entidades\obj\Debug\Formulario.Entidades.dll
+C:\Users\vinig\source\repos\ProgVisualWebTest\Formulario.Entidades\obj\Debug\Formulario.Entidades.pdb

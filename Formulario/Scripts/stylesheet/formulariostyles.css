@@ -1,0 +1,23 @@
+﻿body {
+    background: #b2b2b2;
+}
+
+.buttons-content{
+    padding: 10px;
+}
+
+.content {
+    background: #ffffff;
+    height: 100%;
+    padding: 10px;
+    margin: 15px;
+}
+
+.config-email{
+    margin:15px;
+    padding: 10px;
+}
+
+i{
+    padding: 5px;
+}
